@@ -30,7 +30,7 @@ I am always open to new learning opportunities and enjoy tackling recruitment ta
 
 Feel free to reach out if you'd like to connect or collaborate on a project. Let's learn and grow together in this exciting field of technology!
 
-- 📧 **Email:** [your-email@example.com](paul.mound@proton.me)
+- 📧 **Email:** [paul.mound@proton.me](paul.mound@proton.me)
 - 💼 **LinkedIn:** [Your LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pawe%C5%82-kopiec-8832222b7/))
 
 <!-- ![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulBaker1&show_icons=true) -->
